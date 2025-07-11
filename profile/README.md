@@ -1,17 +1,11 @@
-<div align="center">
-<h1>Welcome to the Nowomed Team! 👋</h1>
-</div>
-
----
-
 ## 🚀 Key Repositories
 
-This table highlights our core services. Please keep descriptions up-to-date.
+This table highlights our core services.
 
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
 | 🔷 **[api](https://github.com/nowomed/api)** | API/Backend for NowomedClinics App. The central source of truth for all data. | TypeScript |
-| 🧑‍⚕️ **[doctor](https://github.com/nowomed/doctor)** | The frontend application used by doctors and clinic staff. | TypeScript |
+| 🧑‍⚕️ **[doctor](https://github.com/nowomed/doctor)** | The frontend application used by doctors. | TypeScript |
 | 🤒 **[patient](https://github.com/nowomed/patient)** | The frontend application used by our patients. | TypeScript |
 | ✉️ **[mail](https://github.com/nowomed/mail)** | Service for handling all transactional emails (e.g., appointment reminders, password resets). | Pug |
 | 🛠️ **[support](https://github.com/nowomed/support)** | Internal tools and dashboards for the customer support team. | TypeScript |
