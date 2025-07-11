@@ -12,8 +12,6 @@ This table highlights our core services.
 
 ---
 
----
-
 ## 🔗 Useful Links
 
 - 📋 **[Project Management (Jira)](https://naturecan.atlassian.net/jira/software/c/projects/NWM/boards/23)**
