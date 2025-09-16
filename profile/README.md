@@ -4,6 +4,7 @@ This table highlights our core services.
 
 | Repository | Description | Primary Language |
 | :--- | :--- | :--- |
+| 💊 **[dose](https://github.com/nowomed/dose)** | New pharmacy and teleclinic | TypeScript |
 | 🔷 **[api](https://github.com/nowomed/api)** | API/Backend for NowomedClinics App. The central source of truth for all data. | TypeScript |
 | 🧑‍⚕️ **[doctor](https://github.com/nowomed/doctor)** | The frontend application used by doctors. | TypeScript |
 | 🤒 **[patient](https://github.com/nowomed/patient)** | The frontend application used by our patients. | TypeScript |
